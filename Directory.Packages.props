@@ -1,0 +1,13 @@
+<Project>
+
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+
+  <!-- Package versions are declared here as <PackageVersion Include="..." Version="..." />.
+       Projects reference packages with <PackageReference Include="..." /> (no Version).
+       First entries arrive in Phase 1 (EF Core, Npgsql, NetTopologySuite). -->
+  <ItemGroup>
+  </ItemGroup>
+
+</Project>

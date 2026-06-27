@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- All common settings (TargetFramework, Nullable, etc.) are inherited
+       from the root Directory.Build.props. Intentionally empty in Phase 0;
+       DTOs / message contracts are introduced in Phase 1. -->
+
+</Project>

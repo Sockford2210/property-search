@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/shared/">
+    <Project Path="shared/Contracts/PropertySearch.Contracts.csproj" />
+    <Project Path="shared/Domain/PropertySearch.Domain.csproj" />
+  </Folder>
+</Solution>

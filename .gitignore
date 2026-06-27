@@ -1,0 +1,24 @@
+# .NET build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.suo
+
+# Node (PropertyWeb, added later)
+node_modules/
+
+# Local secrets / environment
+.env
+
+# Claude Code local session/settings data
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- All common settings (TargetFramework, Nullable, etc.) are inherited
+       from the root Directory.Build.props. Intentionally empty in Phase 0;
+       domain entities are introduced in Phase 1. -->
+
+</Project>
