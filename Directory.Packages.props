@@ -5,9 +5,25 @@
   </PropertyGroup>
 
   <!-- Package versions are declared here as <PackageVersion Include="..." Version="..." />.
-       Projects reference packages with <PackageReference Include="..." /> (no Version).
-       First entries arrive in Phase 1 (EF Core, Npgsql, NetTopologySuite). -->
+       Projects reference packages with <PackageReference Include="..." /> (no Version). -->
+
+  <!-- Data access (Infrastructure) -->
   <ItemGroup>
+    <PackageVersion Include="Microsoft.EntityFrameworkCore" Version="10.0.9" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.9" />
+    <PackageVersion Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.2" />
+    <PackageVersion Include="EFCore.NamingConventions" Version="10.0.1" />
+  </ItemGroup>
+
+  <!-- Testing -->
+  <ItemGroup>
+    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="18.7.0" />
+    <PackageVersion Include="xunit.v3" Version="3.2.2" />
+    <PackageVersion Include="xunit.runner.visualstudio" Version="3.1.5" />
+    <PackageVersion Include="FluentAssertions" Version="8.10.0" />
+    <PackageVersion Include="Testcontainers.PostgreSql" Version="4.12.0" />
+    <PackageVersion Include="Respawn" Version="7.0.0" />
+    <PackageVersion Include="Npgsql" Version="10.0.3" />
   </ItemGroup>
 
 </Project>

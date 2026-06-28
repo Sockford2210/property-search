@@ -2,5 +2,9 @@
   <Folder Name="/shared/">
     <Project Path="shared/Contracts/PropertySearch.Contracts.csproj" />
     <Project Path="shared/Domain/PropertySearch.Domain.csproj" />
+    <Project Path="shared/Infrastructure/PropertySearch.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PropertySearch.Infrastructure.Tests/PropertySearch.Infrastructure.Tests.csproj" />
   </Folder>
 </Solution>
