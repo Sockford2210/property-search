@@ -4,6 +4,9 @@
     <Project Path="shared/Domain/PropertySearch.Domain.csproj" />
     <Project Path="shared/Infrastructure/PropertySearch.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/StationImporter/PropertySearch.StationImporter.csproj" />
+  </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/PropertySearch.Infrastructure.Tests/PropertySearch.Infrastructure.Tests.csproj" />
   </Folder>

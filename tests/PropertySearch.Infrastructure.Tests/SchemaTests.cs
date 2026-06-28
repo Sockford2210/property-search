@@ -53,6 +53,7 @@ public sealed class SchemaTests(PostgresFixture fixture) : IAsyncLifetime
         {
             var station = new Station
             {
+                StationCode = "HUBKGX",
                 Name = "King's Cross St. Pancras",
                 Mode = TransportMode.Underground,
                 Latitude = 51.5308,
@@ -89,6 +90,7 @@ public sealed class SchemaTests(PostgresFixture fixture) : IAsyncLifetime
         {
             context.Stations.Add(new Station
             {
+                StationCode = "HUBCWF",
                 Name = "Canary Wharf",
                 Mode = TransportMode.ElizabethLine,
                 Latitude = 51.5054,

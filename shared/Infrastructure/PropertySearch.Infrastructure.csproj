@@ -5,6 +5,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="Data/london-stations.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" />

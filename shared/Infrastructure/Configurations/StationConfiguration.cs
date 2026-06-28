@@ -10,6 +10,9 @@ internal sealed class StationConfiguration : IEntityTypeConfiguration<Station>
     {
         builder.HasKey(s => s.Id);
 
+        builder.Property(s => s.StationCode).IsRequired();
+        builder.HasIndex(s => s.StationCode).IsUnique();
+
         builder.Property(s => s.Name).IsRequired();
 
         builder.Property(s => s.Mode)
