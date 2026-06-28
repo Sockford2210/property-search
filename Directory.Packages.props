@@ -7,6 +7,12 @@
   <!-- Package versions are declared here as <PackageVersion Include="..." Version="..." />.
        Projects reference packages with <PackageReference Include="..." /> (no Version). -->
 
+  <!-- Scraping (Infrastructure) -->
+  <ItemGroup>
+    <PackageVersion Include="AngleSharp" Version="1.5.1" />
+    <PackageVersion Include="Microsoft.Extensions.Http.Resilience" Version="10.7.0" />
+  </ItemGroup>
+
   <!-- Data access (Infrastructure) -->
   <ItemGroup>
     <PackageVersion Include="Microsoft.EntityFrameworkCore" Version="10.0.9" />

@@ -90,6 +90,17 @@ The dataset is generated from the [TfL Unified API](https://api.tfl.gov.uk/) by
 `scripts/build-station-dataset.py` (Python 3, no app key). See
 `shared/Infrastructure/Data/README.md` for provenance and how to refresh it.
 
+## Search discovery
+
+`RightmoveSearchDiscoveryService` (in `shared/Infrastructure/Sources/Rightmove/`) is
+the Phase 4 entry point. Given a `RightmoveSearchCriteria` (location token, price
+range, bedrooms, radius) it paginates Rightmove's search endpoint via an
+`IPageFetcher` and returns a de-duplicated list of `SearchResultRef(ExternalId, Url)`.
+The HTML is parsed by `RightmoveSearchParser`, which locates the embedded
+`window.jsonModel` JSON blob using AngleSharp. `HttpPageFetcher` handles live HTTP
+with Polly resilience and a configurable politeness delay; tests inject a fake
+`IPageFetcher` and run offline. Register with `services.AddRightmoveScraper(config)`.
+
 ## Tests
 
 Integration tests live in `tests/PropertySearch.Infrastructure.Tests`. They use
