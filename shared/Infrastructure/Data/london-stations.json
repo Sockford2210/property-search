@@ -1,0 +1,3278 @@
+[
+  {
+    "code": "940GZZDLABR",
+    "name": "Abbey Road",
+    "latitude": 51.531926,
+    "longitude": 0.003737,
+    "mode": "Dlr"
+  },
+  {
+    "code": "HUBABW",
+    "name": "Abbey Wood",
+    "latitude": 51.491241,
+    "longitude": 0.121374,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "910GACTNCTL",
+    "name": "Acton Central",
+    "latitude": 51.508716,
+    "longitude": -0.262971,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GACTONML",
+    "name": "Acton Main Line",
+    "latitude": 51.51718,
+    "longitude": -0.266756,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "940GZZLUACT",
+    "name": "Acton Town",
+    "latitude": 51.503057,
+    "longitude": -0.280462,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUALD",
+    "name": "Aldgate",
+    "latitude": 51.514246,
+    "longitude": -0.075689,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUADE",
+    "name": "Aldgate East",
+    "latitude": 51.515037,
+    "longitude": -0.072384,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLALL",
+    "name": "All Saints",
+    "latitude": 51.511,
+    "longitude": -0.013135,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUALP",
+    "name": "Alperton",
+    "latitude": 51.540627,
+    "longitude": -0.29961,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBAMR",
+    "name": "Amersham",
+    "latitude": 51.674126,
+    "longitude": -0.607714,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GANERLEY",
+    "name": "Anerley",
+    "latitude": 51.412153,
+    "longitude": -0.065886,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUAGL",
+    "name": "Angel",
+    "latitude": 51.532624,
+    "longitude": -0.105898,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUACY",
+    "name": "Archway",
+    "latitude": 51.565478,
+    "longitude": -0.134819,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUASG",
+    "name": "Arnos Grove",
+    "latitude": 51.616446,
+    "longitude": -0.133062,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUASL",
+    "name": "Arsenal",
+    "latitude": 51.558655,
+    "longitude": -0.107457,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUBST",
+    "name": "Baker Street",
+    "latitude": 51.522883,
+    "longitude": -0.15713,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBBAL",
+    "name": "Balham",
+    "latitude": 51.443288,
+    "longitude": -0.152997,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBBAN",
+    "name": "Bank",
+    "latitude": 51.513233,
+    "longitude": -0.088515,
+    "mode": "Dlr"
+  },
+  {
+    "code": "HUBBAN",
+    "name": "Bank",
+    "latitude": 51.513356,
+    "longitude": -0.088899,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUBBN",
+    "name": "Barbican",
+    "latitude": 51.520275,
+    "longitude": -0.097993,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBBKG",
+    "name": "Barking",
+    "latitude": 51.539495,
+    "longitude": 0.080903,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBBKG",
+    "name": "Barking",
+    "latitude": 51.539321,
+    "longitude": 0.081053,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GBARKRIV",
+    "name": "Barking Riverside",
+    "latitude": 51.51953,
+    "longitude": 0.11596,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUBKE",
+    "name": "Barkingside",
+    "latitude": 51.585689,
+    "longitude": 0.088585,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUBSC",
+    "name": "Barons Court",
+    "latitude": 51.490311,
+    "longitude": -0.213427,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZBPSUST",
+    "name": "Battersea Power Station",
+    "latitude": 51.479932,
+    "longitude": -0.142142,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUBWT",
+    "name": "Bayswater",
+    "latitude": 51.512284,
+    "longitude": -0.187938,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLBEC",
+    "name": "Beckton",
+    "latitude": 51.514362,
+    "longitude": 0.061453,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZDLBPK",
+    "name": "Beckton Park",
+    "latitude": 51.508793,
+    "longitude": 0.054932,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUBEC",
+    "name": "Becontree",
+    "latitude": 51.540331,
+    "longitude": 0.127016,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUBZP",
+    "name": "Belsize Park",
+    "latitude": 51.550311,
+    "longitude": -0.164648,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUBMY",
+    "name": "Bermondsey",
+    "latitude": 51.49775,
+    "longitude": -0.063993,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GBTHNLGR",
+    "name": "Bethnal Green",
+    "latitude": 51.523917,
+    "longitude": -0.059568,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUBLG",
+    "name": "Bethnal Green",
+    "latitude": 51.527222,
+    "longitude": -0.055506,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBBFR",
+    "name": "Blackfriars",
+    "latitude": 51.511581,
+    "longitude": -0.103659,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBBHO",
+    "name": "Blackhorse Road",
+    "latitude": 51.586605,
+    "longitude": -0.041236,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBBHO",
+    "name": "Blackhorse Road",
+    "latitude": 51.586919,
+    "longitude": -0.04115,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLBLA",
+    "name": "Blackwall",
+    "latitude": 51.507991,
+    "longitude": -0.006969,
+    "mode": "Dlr"
+  },
+  {
+    "code": "HUBBDS",
+    "name": "Bond Street",
+    "latitude": 51.51369,
+    "longitude": -0.149517,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBBDS",
+    "name": "Bond Street",
+    "latitude": 51.514304,
+    "longitude": -0.149723,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUBOR",
+    "name": "Borough",
+    "latitude": 51.501199,
+    "longitude": -0.09337,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUBOS",
+    "name": "Boston Manor",
+    "latitude": 51.495635,
+    "longitude": -0.324939,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUBDS",
+    "name": "Bounds Green",
+    "latitude": 51.607034,
+    "longitude": -0.124235,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLBOW",
+    "name": "Bow Church",
+    "latitude": 51.527858,
+    "longitude": -0.020936,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUBWR",
+    "name": "Bow Road",
+    "latitude": 51.52694,
+    "longitude": -0.025128,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUBTX",
+    "name": "Brent Cross",
+    "latitude": 51.57665,
+    "longitude": -0.213622,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GBRTWOOD",
+    "name": "Brentwood",
+    "latitude": 51.613605,
+    "longitude": 0.299586,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBBRX",
+    "name": "Brixton",
+    "latitude": 51.462618,
+    "longitude": -0.114888,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GBROCKLY",
+    "name": "Brockley",
+    "latitude": 51.464649,
+    "longitude": -0.037537,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUBBB",
+    "name": "Bromley-by-Bow",
+    "latitude": 51.524839,
+    "longitude": -0.011538,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GBRBY",
+    "name": "Brondesbury",
+    "latitude": 51.545166,
+    "longitude": -0.202309,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GBRBYPK",
+    "name": "Brondesbury Park",
+    "latitude": 51.540734,
+    "longitude": -0.210054,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GBRUCGRV",
+    "name": "Bruce Grove",
+    "latitude": 51.593959,
+    "longitude": -0.069867,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUBKH",
+    "name": "Buckhurst Hill",
+    "latitude": 51.626605,
+    "longitude": 0.046757,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GBNHAM",
+    "name": "Burnham (Berks)",
+    "latitude": 51.523506,
+    "longitude": -0.646374,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "940GZZLUBTK",
+    "name": "Burnt Oak",
+    "latitude": 51.602774,
+    "longitude": -0.264048,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GBHILLPK",
+    "name": "Bush Hill Park",
+    "latitude": 51.641519,
+    "longitude": -0.069221,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBBSH",
+    "name": "Bushey",
+    "latitude": 51.645582,
+    "longitude": -0.384749,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUCAR",
+    "name": "Caledonian Road",
+    "latitude": 51.548519,
+    "longitude": -0.118493,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GCLDNNRB",
+    "name": "Caledonian Road & Barnsbury",
+    "latitude": 51.543041,
+    "longitude": -0.116729,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GCAMHTH",
+    "name": "Cambridge Heath (London)",
+    "latitude": 51.531973,
+    "longitude": -0.057279,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GCMDNRD",
+    "name": "Camden Road",
+    "latitude": 51.541791,
+    "longitude": -0.138701,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUCTN",
+    "name": "Camden Town",
+    "latitude": 51.539292,
+    "longitude": -0.14274,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBZCW",
+    "name": "Canada Water",
+    "latitude": 51.49799,
+    "longitude": -0.04972,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBZCW",
+    "name": "Canada Water",
+    "latitude": 51.497931,
+    "longitude": -0.049405,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBCAW",
+    "name": "Canary Wharf",
+    "latitude": 51.504838,
+    "longitude": -0.020997,
+    "mode": "Dlr"
+  },
+  {
+    "code": "HUBCAW",
+    "name": "Canary Wharf",
+    "latitude": 51.506321,
+    "longitude": -0.018815,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBCAW",
+    "name": "Canary Wharf",
+    "latitude": 51.503488,
+    "longitude": -0.018246,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBCAN",
+    "name": "Canning Town",
+    "latitude": 51.514127,
+    "longitude": 0.008101,
+    "mode": "Dlr"
+  },
+  {
+    "code": "HUBCAN",
+    "name": "Canning Town",
+    "latitude": 51.513584,
+    "longitude": 0.008322,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBCST",
+    "name": "Cannon Street",
+    "latitude": 51.51151,
+    "longitude": -0.090432,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GCNNB",
+    "name": "Canonbury",
+    "latitude": 51.548732,
+    "longitude": -0.092191,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUCPK",
+    "name": "Canons Park",
+    "latitude": 51.607701,
+    "longitude": -0.294693,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GCRPNDPK",
+    "name": "Carpenders Park",
+    "latitude": 51.628351,
+    "longitude": -0.385939,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GCHDWLHT",
+    "name": "Chadwell Heath",
+    "latitude": 51.568039,
+    "longitude": 0.128958,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBCFO",
+    "name": "Chalfont & Latimer",
+    "latitude": 51.667985,
+    "longitude": -0.560689,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUCFM",
+    "name": "Chalk Farm",
+    "latitude": 51.544118,
+    "longitude": -0.153388,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUCHL",
+    "name": "Chancery Lane",
+    "latitude": 51.518247,
+    "longitude": -0.111583,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBCHX",
+    "name": "Charing Cross",
+    "latitude": 51.50741,
+    "longitude": -0.127277,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUCSM",
+    "name": "Chesham",
+    "latitude": 51.705208,
+    "longitude": -0.611247,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GCHESHNT",
+    "name": "Cheshunt",
+    "latitude": 51.702876,
+    "longitude": -0.02396,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUCWL",
+    "name": "Chigwell",
+    "latitude": 51.617916,
+    "longitude": 0.075041,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GCHINGFD",
+    "name": "Chingford",
+    "latitude": 51.633087,
+    "longitude": 0.009897,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUCWP",
+    "name": "Chiswick Park",
+    "latitude": 51.494627,
+    "longitude": -0.267972,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBCLW",
+    "name": "Chorleywood",
+    "latitude": 51.654358,
+    "longitude": -0.518461,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUCPC",
+    "name": "Clapham Common",
+    "latitude": 51.461742,
+    "longitude": -0.138317,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GCLPHHS",
+    "name": "Clapham High Street",
+    "latitude": 51.465481,
+    "longitude": -0.132522,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBCLJ",
+    "name": "Clapham Junction",
+    "latitude": 51.464187,
+    "longitude": -0.170221,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUCPN",
+    "name": "Clapham North",
+    "latitude": 51.465135,
+    "longitude": -0.130016,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUCPS",
+    "name": "Clapham South",
+    "latitude": 51.452654,
+    "longitude": -0.147582,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GCLAPTON",
+    "name": "Clapton",
+    "latitude": 51.561644,
+    "longitude": -0.057025,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUCKS",
+    "name": "Cockfosters",
+    "latitude": 51.65152,
+    "longitude": -0.149171,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUCND",
+    "name": "Colindale",
+    "latitude": 51.595424,
+    "longitude": -0.249919,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUCSD",
+    "name": "Colliers Wood",
+    "latitude": 51.41816,
+    "longitude": -0.178086,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUCGN",
+    "name": "Covent Garden",
+    "latitude": 51.513093,
+    "longitude": -0.124436,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLCLA",
+    "name": "Crossharbour",
+    "latitude": 51.495728,
+    "longitude": -0.014606,
+    "mode": "Dlr"
+  },
+  {
+    "code": "910GCROUCHH",
+    "name": "Crouch Hill",
+    "latitude": 51.571302,
+    "longitude": -0.117149,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUCXY",
+    "name": "Croxley",
+    "latitude": 51.647044,
+    "longitude": -0.441718,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBCYP",
+    "name": "Crystal Palace",
+    "latitude": 51.418109,
+    "longitude": -0.07261,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBCUS",
+    "name": "Custom House",
+    "latitude": 51.509716,
+    "longitude": 0.026699,
+    "mode": "Dlr"
+  },
+  {
+    "code": "HUBCUS",
+    "name": "Custom House",
+    "latitude": 51.509769,
+    "longitude": 0.02673,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBCUT",
+    "name": "Cutty Sark",
+    "latitude": 51.481671,
+    "longitude": -0.01081,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZDLCYP",
+    "name": "Cyprus",
+    "latitude": 51.508473,
+    "longitude": 0.063925,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUDGE",
+    "name": "Dagenham East",
+    "latitude": 51.544096,
+    "longitude": 0.166017,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUDGY",
+    "name": "Dagenham Heathway",
+    "latitude": 51.541639,
+    "longitude": 0.147527,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GDALS",
+    "name": "Dalston Junction",
+    "latitude": 51.546116,
+    "longitude": -0.075137,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GDALSKLD",
+    "name": "Dalston Kingsland",
+    "latitude": 51.548148,
+    "longitude": -0.075701,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUDBN",
+    "name": "Debden",
+    "latitude": 51.645386,
+    "longitude": 0.083782,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GDENMRKH",
+    "name": "Denmark Hill",
+    "latitude": 51.468203,
+    "longitude": -0.089361,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZDLDEP",
+    "name": "Deptford Bridge",
+    "latitude": 51.474215,
+    "longitude": -0.022438,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZDLDEV",
+    "name": "Devons Road",
+    "latitude": 51.522667,
+    "longitude": -0.017615,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUDOH",
+    "name": "Dollis Hill",
+    "latitude": 51.551955,
+    "longitude": -0.239068,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBEAL",
+    "name": "Ealing Broadway",
+    "latitude": 51.514841,
+    "longitude": -0.301752,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBEAL",
+    "name": "Ealing Broadway",
+    "latitude": 51.515017,
+    "longitude": -0.301457,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUECM",
+    "name": "Ealing Common",
+    "latitude": 51.51014,
+    "longitude": -0.288265,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUECT",
+    "name": "Earl's Court",
+    "latitude": 51.492063,
+    "longitude": -0.193378,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUEAN",
+    "name": "East Acton",
+    "latitude": 51.516612,
+    "longitude": -0.247248,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUEFY",
+    "name": "East Finchley",
+    "latitude": 51.587131,
+    "longitude": -0.165012,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUEHM",
+    "name": "East Ham",
+    "latitude": 51.538948,
+    "longitude": 0.051186,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLEIN",
+    "name": "East India",
+    "latitude": 51.509359,
+    "longitude": -0.002326,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUEPY",
+    "name": "East Putney",
+    "latitude": 51.459205,
+    "longitude": -0.211,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUEAE",
+    "name": "Eastcote",
+    "latitude": 51.576506,
+    "longitude": -0.397373,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUEGW",
+    "name": "Edgware",
+    "latitude": 51.613653,
+    "longitude": -0.274928,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUERB",
+    "name": "Edgware Road (Bakerloo)",
+    "latitude": 51.520299,
+    "longitude": -0.17015,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUERC",
+    "name": "Edgware Road (Circle Line)",
+    "latitude": 51.519858,
+    "longitude": -0.167832,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GEDMNGRN",
+    "name": "Edmonton Green",
+    "latitude": 51.624929,
+    "longitude": -0.061112,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBEPH",
+    "name": "Elephant & Castle",
+    "latitude": 51.494536,
+    "longitude": -0.100606,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUEPK",
+    "name": "Elm Park",
+    "latitude": 51.549775,
+    "longitude": 0.19864,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLELV",
+    "name": "Elverson Road",
+    "latitude": 51.469074,
+    "longitude": -0.016728,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUEMB",
+    "name": "Embankment",
+    "latitude": 51.507058,
+    "longitude": -0.122666,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GEMRSPKH",
+    "name": "Emerson Park",
+    "latitude": 51.568642,
+    "longitude": 0.220113,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GENFLDTN",
+    "name": "Enfield Town",
+    "latitude": 51.652026,
+    "longitude": -0.079328,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUEPG",
+    "name": "Epping",
+    "latitude": 51.69368,
+    "longitude": 0.113767,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBEUS",
+    "name": "Euston",
+    "latitude": 51.527999,
+    "longitude": -0.133785,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUESQ",
+    "name": "Euston Square",
+    "latitude": 51.525604,
+    "longitude": -0.135829,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUFLP",
+    "name": "Fairlop",
+    "latitude": 51.595618,
+    "longitude": 0.091004,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBZFD",
+    "name": "Farringdon",
+    "latitude": 51.520189,
+    "longitude": -0.104915,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBZFD",
+    "name": "Farringdon",
+    "latitude": 51.520252,
+    "longitude": -0.104913,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUFYC",
+    "name": "Finchley Central",
+    "latitude": 51.600921,
+    "longitude": -0.192527,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUFYR",
+    "name": "Finchley Road",
+    "latitude": 51.546825,
+    "longitude": -0.179845,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GFNCHLYR",
+    "name": "Finchley Road & Frognal",
+    "latitude": 51.550266,
+    "longitude": -0.183141,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBFPK",
+    "name": "Finsbury Park",
+    "latitude": 51.564158,
+    "longitude": -0.106825,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GFRSTGT",
+    "name": "Forest Gate",
+    "latitude": 51.549432,
+    "longitude": 0.024353,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "910GFORESTH",
+    "name": "Forest Hill",
+    "latitude": 51.43928,
+    "longitude": -0.053157,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUFBY",
+    "name": "Fulham Broadway",
+    "latitude": 51.480081,
+    "longitude": -0.195422,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLGAL",
+    "name": "Gallions Reach",
+    "latitude": 51.508941,
+    "longitude": 0.071555,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUGTH",
+    "name": "Gants Hill",
+    "latitude": 51.576544,
+    "longitude": 0.066185,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GGIDEAPK",
+    "name": "Gidea Park",
+    "latitude": 51.581904,
+    "longitude": 0.205964,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "940GZZLUGTR",
+    "name": "Gloucester Road",
+    "latitude": 51.494316,
+    "longitude": -0.182658,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUGGN",
+    "name": "Golders Green",
+    "latitude": 51.572259,
+    "longitude": -0.194039,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUGHK",
+    "name": "Goldhawk Road",
+    "latitude": 51.502005,
+    "longitude": -0.226715,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUGDG",
+    "name": "Goodge Street",
+    "latitude": 51.520599,
+    "longitude": -0.134361,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GGODMAYS",
+    "name": "Goodmayes",
+    "latitude": 51.565579,
+    "longitude": 0.110807,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "910GGOSPLOK",
+    "name": "Gospel Oak",
+    "latitude": 51.555335,
+    "longitude": -0.15077,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUGGH",
+    "name": "Grange Hill",
+    "latitude": 51.613378,
+    "longitude": 0.092066,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUGPS",
+    "name": "Great Portland Street",
+    "latitude": 51.52384,
+    "longitude": -0.144262,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUGPK",
+    "name": "Green Park",
+    "latitude": 51.506947,
+    "longitude": -0.142787,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBGFD",
+    "name": "Greenford",
+    "latitude": 51.542424,
+    "longitude": -0.34605,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBGNW",
+    "name": "Greenwich",
+    "latitude": 51.478087,
+    "longitude": -0.013673,
+    "mode": "Dlr"
+  },
+  {
+    "code": "HUBGUN",
+    "name": "Gunnersbury",
+    "latitude": 51.491678,
+    "longitude": -0.275286,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBGUN",
+    "name": "Gunnersbury",
+    "latitude": 51.491803,
+    "longitude": -0.275267,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GHACKNYC",
+    "name": "Hackney Central",
+    "latitude": 51.547105,
+    "longitude": -0.056058,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GHAKNYNM",
+    "name": "Hackney Downs",
+    "latitude": 51.548757,
+    "longitude": -0.060819,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GHACKNYW",
+    "name": "Hackney Wick",
+    "latitude": 51.54341,
+    "longitude": -0.02492,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GHAGGERS",
+    "name": "Haggerston",
+    "latitude": 51.538705,
+    "longitude": -0.075666,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUHLT",
+    "name": "Hainault",
+    "latitude": 51.603659,
+    "longitude": 0.093482,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBHMS",
+    "name": "Hammersmith (H&C Line)",
+    "latitude": 51.49339,
+    "longitude": -0.22503,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUHTD",
+    "name": "Hampstead",
+    "latitude": 51.556239,
+    "longitude": -0.177464,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GHMPSTDH",
+    "name": "Hampstead Heath",
+    "latitude": 51.55521,
+    "longitude": -0.165705,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUHGR",
+    "name": "Hanger Lane",
+    "latitude": 51.530177,
+    "longitude": -0.292704,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GHANWELL",
+    "name": "Hanwell",
+    "latitude": 51.511835,
+    "longitude": -0.338583,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBHDN",
+    "name": "Harlesden",
+    "latitude": 51.536289,
+    "longitude": -0.257667,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBHDN",
+    "name": "Harlesden",
+    "latitude": 51.53631,
+    "longitude": -0.257883,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GHRLDWOD",
+    "name": "Harold Wood",
+    "latitude": 51.592766,
+    "longitude": 0.233129,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "910GHRGYGL",
+    "name": "Harringay Green Lanes",
+    "latitude": 51.577182,
+    "longitude": -0.098144,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBHRW",
+    "name": "Harrow & Wealdstone",
+    "latitude": 51.592169,
+    "longitude": -0.334571,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBHRW",
+    "name": "Harrow & Wealdstone",
+    "latitude": 51.592268,
+    "longitude": -0.335217,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBHOH",
+    "name": "Harrow-on-the-Hill",
+    "latitude": 51.579195,
+    "longitude": -0.337225,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GHTCHEND",
+    "name": "Hatch End",
+    "latitude": 51.609417,
+    "longitude": -0.368601,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUHNX",
+    "name": "Hatton Cross",
+    "latitude": 51.466747,
+    "longitude": -0.423191,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GHAYESAH",
+    "name": "Hayes & Harlington",
+    "latitude": 51.503096,
+    "longitude": -0.420683,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "910GHEDSTNL",
+    "name": "Headstone Lane",
+    "latitude": 51.602649,
+    "longitude": -0.35722,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBHX4",
+    "name": "Heathrow Terminal 4",
+    "latitude": 51.458268,
+    "longitude": -0.445463,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBHX4",
+    "name": "Heathrow Terminal 4",
+    "latitude": 51.458524,
+    "longitude": -0.445771,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBHX5",
+    "name": "Heathrow Terminal 5",
+    "latitude": 51.470053,
+    "longitude": -0.490589,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBHX5",
+    "name": "Heathrow Terminal 5",
+    "latitude": 51.470052,
+    "longitude": -0.49056,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBH13",
+    "name": "Heathrow Terminals 2 & 3",
+    "latitude": 51.471987,
+    "longitude": -0.454788,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBH13",
+    "name": "Heathrow Terminals 2 & 3",
+    "latitude": 51.471235,
+    "longitude": -0.452265,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUHCL",
+    "name": "Hendon Central",
+    "latitude": 51.583301,
+    "longitude": -0.226424,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLHEQ",
+    "name": "Heron Quays",
+    "latitude": 51.503379,
+    "longitude": -0.021421,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUHBT",
+    "name": "High Barnet",
+    "latitude": 51.650541,
+    "longitude": -0.194298,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUHSK",
+    "name": "High Street Kensington",
+    "latitude": 51.501055,
+    "longitude": -0.192792,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GHGHMSPK",
+    "name": "Highams Park",
+    "latitude": 51.60835,
+    "longitude": -0.000222,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBHHY",
+    "name": "Highbury & Islington",
+    "latitude": 51.546177,
+    "longitude": -0.103764,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBHHY",
+    "name": "Highbury & Islington",
+    "latitude": 51.54635,
+    "longitude": -0.103324,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUHGT",
+    "name": "Highgate",
+    "latitude": 51.577532,
+    "longitude": -0.145857,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUHGD",
+    "name": "Hillingdon",
+    "latitude": 51.553715,
+    "longitude": -0.449828,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUHBN",
+    "name": "Holborn",
+    "latitude": 51.51758,
+    "longitude": -0.120475,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUHPK",
+    "name": "Holland Park",
+    "latitude": 51.507143,
+    "longitude": -0.205679,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUHWY",
+    "name": "Holloway Road",
+    "latitude": 51.552697,
+    "longitude": -0.113244,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GHOMRTON",
+    "name": "Homerton",
+    "latitude": 51.547012,
+    "longitude": -0.04236,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GHONROPK",
+    "name": "Honor Oak Park",
+    "latitude": 51.449989,
+    "longitude": -0.045505,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUHCH",
+    "name": "Hornchurch",
+    "latitude": 51.554093,
+    "longitude": 0.219116,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUHWC",
+    "name": "Hounslow Central",
+    "latitude": 51.471295,
+    "longitude": -0.366578,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUHWE",
+    "name": "Hounslow East",
+    "latitude": 51.473213,
+    "longitude": -0.356474,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUHWT",
+    "name": "Hounslow West",
+    "latitude": 51.473469,
+    "longitude": -0.386544,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GHOXTON",
+    "name": "Hoxton",
+    "latitude": 51.531512,
+    "longitude": -0.075681,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUHPC",
+    "name": "Hyde Park Corner",
+    "latitude": 51.503035,
+    "longitude": -0.152441,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUICK",
+    "name": "Ickenham",
+    "latitude": 51.56177,
+    "longitude": -0.442225,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GILFORD",
+    "name": "Ilford",
+    "latitude": 51.559118,
+    "longitude": 0.06968,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBIMP",
+    "name": "Imperial Wharf",
+    "latitude": 51.474949,
+    "longitude": -0.182823,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZDLISL",
+    "name": "Island Gardens",
+    "latitude": 51.487811,
+    "longitude": -0.010139,
+    "mode": "Dlr"
+  },
+  {
+    "code": "910GIVER",
+    "name": "Iver",
+    "latitude": 51.508503,
+    "longitude": -0.506726,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "940GZZLUKNG",
+    "name": "Kennington",
+    "latitude": 51.488337,
+    "longitude": -0.105963,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBKNL",
+    "name": "Kensal Green",
+    "latitude": 51.53054,
+    "longitude": -0.225088,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBKNL",
+    "name": "Kensal Green",
+    "latitude": 51.530539,
+    "longitude": -0.225016,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GKENR",
+    "name": "Kensal Rise",
+    "latitude": 51.534554,
+    "longitude": -0.219957,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBKPA",
+    "name": "Kensington (Olympia)",
+    "latitude": 51.497899,
+    "longitude": -0.210364,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBKPA",
+    "name": "Kensington (Olympia)",
+    "latitude": 51.497624,
+    "longitude": -0.210015,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBKTN",
+    "name": "Kentish Town",
+    "latitude": 51.550312,
+    "longitude": -0.140733,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GKNTSHTW",
+    "name": "Kentish Town West",
+    "latitude": 51.546548,
+    "longitude": -0.146655,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBKNT",
+    "name": "Kenton",
+    "latitude": 51.581802,
+    "longitude": -0.316981,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBKNT",
+    "name": "Kenton",
+    "latitude": 51.581756,
+    "longitude": -0.31691,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBKWG",
+    "name": "Kew Gardens",
+    "latitude": 51.477073,
+    "longitude": -0.285054,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBKWG",
+    "name": "Kew Gardens",
+    "latitude": 51.477058,
+    "longitude": -0.285241,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUKBN",
+    "name": "Kilburn",
+    "latitude": 51.547183,
+    "longitude": -0.204248,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GKLBRNHR",
+    "name": "Kilburn High Road",
+    "latitude": 51.537277,
+    "longitude": -0.192237,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUKPK",
+    "name": "Kilburn Park",
+    "latitude": 51.534979,
+    "longitude": -0.194232,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLKGV",
+    "name": "King George V",
+    "latitude": 51.502003,
+    "longitude": 0.062624,
+    "mode": "Dlr"
+  },
+  {
+    "code": "HUBKGX",
+    "name": "King's Cross St. Pancras",
+    "latitude": 51.530663,
+    "longitude": -0.123194,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUKBY",
+    "name": "Kingsbury",
+    "latitude": 51.584845,
+    "longitude": -0.27879,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUKNB",
+    "name": "Knightsbridge",
+    "latitude": 51.501669,
+    "longitude": -0.160508,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLULAD",
+    "name": "Ladbroke Grove",
+    "latitude": 51.517449,
+    "longitude": -0.210391,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLULBN",
+    "name": "Lambeth North",
+    "latitude": 51.498808,
+    "longitude": -0.112315,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLULGT",
+    "name": "Lancaster Gate",
+    "latitude": 51.511723,
+    "longitude": -0.175494,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLLDP",
+    "name": "Langdon Park",
+    "latitude": 51.515172,
+    "longitude": -0.01415,
+    "mode": "Dlr"
+  },
+  {
+    "code": "910GLANGLEY",
+    "name": "Langley (Berks)",
+    "latitude": 51.508062,
+    "longitude": -0.541756,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "940GZZLULRD",
+    "name": "Latimer Road",
+    "latitude": 51.513389,
+    "longitude": -0.217799,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLULSQ",
+    "name": "Leicester Square",
+    "latitude": 51.511386,
+    "longitude": -0.128426,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBLEW",
+    "name": "Lewisham",
+    "latitude": 51.464665,
+    "longitude": -0.012874,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLULYN",
+    "name": "Leyton",
+    "latitude": 51.556589,
+    "longitude": -0.005523,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GLEYTNMR",
+    "name": "Leyton Midland Road",
+    "latitude": 51.569725,
+    "longitude": -0.008051,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLULYS",
+    "name": "Leytonstone",
+    "latitude": 51.568324,
+    "longitude": 0.008194,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GLYTNSHR",
+    "name": "Leytonstone High Road",
+    "latitude": 51.563554,
+    "longitude": 0.008416,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBLHS",
+    "name": "Limehouse",
+    "latitude": 51.512393,
+    "longitude": -0.039809,
+    "mode": "Dlr"
+  },
+  {
+    "code": "HUBLST",
+    "name": "Liverpool Street",
+    "latitude": 51.517372,
+    "longitude": -0.083182,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBLBG",
+    "name": "London Bridge",
+    "latitude": 51.505721,
+    "longitude": -0.088873,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBLCY",
+    "name": "London City Airport",
+    "latitude": 51.503416,
+    "longitude": 0.048739,
+    "mode": "Dlr"
+  },
+  {
+    "code": "HUBEUS",
+    "name": "London Euston",
+    "latitude": 51.528136,
+    "longitude": -0.133924,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GLONFLDS",
+    "name": "London Fields",
+    "latitude": 51.541153,
+    "longitude": -0.057753,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBLST",
+    "name": "London Liverpool Street",
+    "latitude": 51.517991,
+    "longitude": -0.081426,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBLST",
+    "name": "London Liverpool Street",
+    "latitude": 51.517991,
+    "longitude": -0.081426,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLULGN",
+    "name": "Loughton",
+    "latitude": 51.641443,
+    "longitude": 0.055476,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUMVL",
+    "name": "Maida Vale",
+    "latitude": 51.529777,
+    "longitude": -0.185758,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GMDNHEAD",
+    "name": "Maidenhead",
+    "latitude": 51.518669,
+    "longitude": -0.72266,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "940GZZLUMRH",
+    "name": "Manor House",
+    "latitude": 51.570738,
+    "longitude": -0.096118,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GMANRPK",
+    "name": "Manor Park",
+    "latitude": 51.552477,
+    "longitude": 0.046342,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "940GZZLUMSH",
+    "name": "Mansion House",
+    "latitude": 51.512117,
+    "longitude": -0.094009,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUMBA",
+    "name": "Marble Arch",
+    "latitude": 51.513424,
+    "longitude": -0.158953,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GMRYLAND",
+    "name": "Maryland",
+    "latitude": 51.546081,
+    "longitude": 0.005815,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBMYB",
+    "name": "Marylebone",
+    "latitude": 51.522322,
+    "longitude": -0.163207,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUMED",
+    "name": "Mile End",
+    "latitude": 51.525122,
+    "longitude": -0.03364,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUMHL",
+    "name": "Mill Hill East",
+    "latitude": 51.608229,
+    "longitude": -0.209986,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUMMT",
+    "name": "Monument",
+    "latitude": 51.5107,
+    "longitude": -0.085969,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUMPK",
+    "name": "Moor Park",
+    "latitude": 51.629845,
+    "longitude": -0.432454,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBZMG",
+    "name": "Moorgate",
+    "latitude": 51.518176,
+    "longitude": -0.088322,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUMDN",
+    "name": "Morden",
+    "latitude": 51.402142,
+    "longitude": -0.194839,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUMTC",
+    "name": "Mornington Crescent",
+    "latitude": 51.534679,
+    "longitude": -0.138789,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLMUD",
+    "name": "Mudchute",
+    "latitude": 51.490704,
+    "longitude": -0.014738,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUNDN",
+    "name": "Neasden",
+    "latitude": 51.553986,
+    "longitude": -0.249837,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBNWX",
+    "name": "New Cross ELL",
+    "latitude": 51.476344,
+    "longitude": -0.032441,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBNXG",
+    "name": "New Cross Gate",
+    "latitude": 51.475128,
+    "longitude": -0.040399,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUNBP",
+    "name": "Newbury Park",
+    "latitude": 51.575726,
+    "longitude": 0.090004,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZNEUGST",
+    "name": "Nine Elms",
+    "latitude": 51.479912,
+    "longitude": -0.128476,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUNAN",
+    "name": "North Acton",
+    "latitude": 51.523524,
+    "longitude": -0.259755,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUNEN",
+    "name": "North Ealing",
+    "latitude": 51.517505,
+    "longitude": -0.288868,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBNGW",
+    "name": "North Greenwich",
+    "latitude": 51.50047,
+    "longitude": 0.004287,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUNHA",
+    "name": "North Harrow",
+    "latitude": 51.584872,
+    "longitude": -0.362408,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBNWB",
+    "name": "North Wembley",
+    "latitude": 51.562596,
+    "longitude": -0.303984,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBNWB",
+    "name": "North Wembley",
+    "latitude": 51.562551,
+    "longitude": -0.304,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUNFD",
+    "name": "Northfields",
+    "latitude": 51.499319,
+    "longitude": -0.314719,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUNHT",
+    "name": "Northolt",
+    "latitude": 51.548236,
+    "longitude": -0.368699,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUNKP",
+    "name": "Northwick Park",
+    "latitude": 51.578481,
+    "longitude": -0.318056,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUNOW",
+    "name": "Northwood",
+    "latitude": 51.611053,
+    "longitude": -0.423829,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUNWH",
+    "name": "Northwood Hills",
+    "latitude": 51.600572,
+    "longitude": -0.409464,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBNWD",
+    "name": "Norwood Junction",
+    "latitude": 51.397019,
+    "longitude": -0.075221,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUNHG",
+    "name": "Notting Hill Gate",
+    "latitude": 51.509128,
+    "longitude": -0.196104,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUOAK",
+    "name": "Oakwood",
+    "latitude": 51.647726,
+    "longitude": -0.132182,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBOLD",
+    "name": "Old Street",
+    "latitude": 51.525864,
+    "longitude": -0.08777,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUOSY",
+    "name": "Osterley",
+    "latitude": 51.481274,
+    "longitude": -0.352224,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUOVL",
+    "name": "Oval",
+    "latitude": 51.48185,
+    "longitude": -0.112439,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUOXC",
+    "name": "Oxford Circus",
+    "latitude": 51.515224,
+    "longitude": -0.141903,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBPAD",
+    "name": "Paddington",
+    "latitude": 51.516449,
+    "longitude": -0.177107,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBPAD",
+    "name": "Paddington",
+    "latitude": 51.516581,
+    "longitude": -0.175689,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUPKR",
+    "name": "Park Royal",
+    "latitude": 51.527123,
+    "longitude": -0.284341,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUPSG",
+    "name": "Parsons Green",
+    "latitude": 51.475277,
+    "longitude": -0.20117,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GPCKHMRY",
+    "name": "Peckham Rye",
+    "latitude": 51.470034,
+    "longitude": -0.069414,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GPENEW",
+    "name": "Penge West",
+    "latitude": 51.417555,
+    "longitude": -0.06084,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUPVL",
+    "name": "Perivale",
+    "latitude": 51.536717,
+    "longitude": -0.323446,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUPCC",
+    "name": "Piccadilly Circus",
+    "latitude": 51.51005,
+    "longitude": -0.133798,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUPCO",
+    "name": "Pimlico",
+    "latitude": 51.489097,
+    "longitude": -0.133761,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUPNR",
+    "name": "Pinner",
+    "latitude": 51.592901,
+    "longitude": -0.381161,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUPLW",
+    "name": "Plaistow",
+    "latitude": 51.531341,
+    "longitude": 0.017451,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLPDK",
+    "name": "Pontoon Dock",
+    "latitude": 51.502212,
+    "longitude": 0.032115,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZDLPOP",
+    "name": "Poplar",
+    "latitude": 51.507744,
+    "longitude": -0.017384,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUPRD",
+    "name": "Preston Road",
+    "latitude": 51.571972,
+    "longitude": -0.295107,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLPRE",
+    "name": "Prince Regent",
+    "latitude": 51.509263,
+    "longitude": 0.034158,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZDLPUD",
+    "name": "Pudding Mill Lane",
+    "latitude": 51.534302,
+    "longitude": -0.012755,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUPYB",
+    "name": "Putney Bridge",
+    "latitude": 51.468262,
+    "longitude": -0.208731,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBQPW",
+    "name": "Queen's Park",
+    "latitude": 51.534158,
+    "longitude": -0.204574,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBQPW",
+    "name": "Queens Park (London)",
+    "latitude": 51.533966,
+    "longitude": -0.204985,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GPCKHMQD",
+    "name": "Queens Road Peckham",
+    "latitude": 51.473566,
+    "longitude": -0.057313,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUQBY",
+    "name": "Queensbury",
+    "latitude": 51.594188,
+    "longitude": -0.286219,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUQWY",
+    "name": "Queensway",
+    "latitude": 51.510312,
+    "longitude": -0.187152,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLURVP",
+    "name": "Ravenscourt Park",
+    "latitude": 51.494122,
+    "longitude": -0.235881,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLURYL",
+    "name": "Rayners Lane",
+    "latitude": 51.575147,
+    "longitude": -0.371127,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GRDNGSTN",
+    "name": "Reading",
+    "latitude": 51.458786,
+    "longitude": -0.971863,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "910GRCTRYRD",
+    "name": "Rectory Road",
+    "latitude": 51.558502,
+    "longitude": -0.068267,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLURBG",
+    "name": "Redbridge",
+    "latitude": 51.576243,
+    "longitude": 0.04536,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLURGP",
+    "name": "Regent's Park",
+    "latitude": 51.523344,
+    "longitude": -0.146444,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBRMD",
+    "name": "Richmond",
+    "latitude": 51.463237,
+    "longitude": -0.301336,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBRMD",
+    "name": "Richmond (London)",
+    "latitude": 51.463061,
+    "longitude": -0.301558,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBRIC",
+    "name": "Rickmansworth",
+    "latitude": 51.640207,
+    "longitude": -0.473703,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLURVY",
+    "name": "Roding Valley",
+    "latitude": 51.617199,
+    "longitude": 0.043647,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GROMFORD",
+    "name": "Romford",
+    "latitude": 51.574829,
+    "longitude": 0.183237,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "910GROMFORD",
+    "name": "Romford",
+    "latitude": 51.574829,
+    "longitude": 0.183237,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GRTHERHI",
+    "name": "Rotherhithe",
+    "latitude": 51.500817,
+    "longitude": -0.052048,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZDLRAL",
+    "name": "Royal Albert",
+    "latitude": 51.508357,
+    "longitude": 0.045935,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLURYO",
+    "name": "Royal Oak",
+    "latitude": 51.519113,
+    "longitude": -0.188748,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBRVC",
+    "name": "Royal Victoria",
+    "latitude": 51.509336,
+    "longitude": 0.018497,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLURSP",
+    "name": "Ruislip",
+    "latitude": 51.571354,
+    "longitude": -0.421898,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLURSG",
+    "name": "Ruislip Gardens",
+    "latitude": 51.560736,
+    "longitude": -0.41071,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLURSM",
+    "name": "Ruislip Manor",
+    "latitude": 51.573202,
+    "longitude": -0.412973,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLURSQ",
+    "name": "Russell Square",
+    "latitude": 51.523073,
+    "longitude": -0.124285,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GSVNKNGS",
+    "name": "Seven Kings",
+    "latitude": 51.564026,
+    "longitude": 0.0971,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBSVS",
+    "name": "Seven Sisters",
+    "latitude": 51.582268,
+    "longitude": -0.07527,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBSVS",
+    "name": "Seven Sisters",
+    "latitude": 51.58333,
+    "longitude": -0.072584,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBSDE",
+    "name": "Shadwell",
+    "latitude": 51.511693,
+    "longitude": -0.056643,
+    "mode": "Dlr"
+  },
+  {
+    "code": "HUBSDE",
+    "name": "Shadwell",
+    "latitude": 51.511284,
+    "longitude": -0.056934,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GSHENFLD",
+    "name": "Shenfield",
+    "latitude": 51.630877,
+    "longitude": 0.329851,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBSPB",
+    "name": "Shepherd's Bush (Central)",
+    "latitude": 51.504376,
+    "longitude": -0.218813,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUSBM",
+    "name": "Shepherd's Bush Market",
+    "latitude": 51.505579,
+    "longitude": -0.226375,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBSPB",
+    "name": "Shepherds Bush",
+    "latitude": 51.505285,
+    "longitude": -0.217654,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GSHRDHST",
+    "name": "Shoreditch High Street",
+    "latitude": 51.523375,
+    "longitude": -0.075246,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GSIVRST",
+    "name": "Silver Street",
+    "latitude": 51.614688,
+    "longitude": -0.06724,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUSSQ",
+    "name": "Sloane Square",
+    "latitude": 51.49227,
+    "longitude": -0.156377,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GSLOUGH",
+    "name": "Slough",
+    "latitude": 51.51188,
+    "longitude": -0.59151,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "940GZZLUSNB",
+    "name": "Snaresbrook",
+    "latitude": 51.580678,
+    "longitude": 0.02144,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GSACTON",
+    "name": "South Acton",
+    "latitude": 51.499695,
+    "longitude": -0.270157,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUSEA",
+    "name": "South Ealing",
+    "latitude": 51.501003,
+    "longitude": -0.307424,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GSHMPSTD",
+    "name": "South Hampstead",
+    "latitude": 51.541432,
+    "longitude": -0.178878,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUSHH",
+    "name": "South Harrow",
+    "latitude": 51.564888,
+    "longitude": -0.352492,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUSKS",
+    "name": "South Kensington",
+    "latitude": 51.494094,
+    "longitude": -0.174138,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBSOK",
+    "name": "South Kenton",
+    "latitude": 51.570214,
+    "longitude": -0.308462,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBSOK",
+    "name": "South Kenton",
+    "latitude": 51.570232,
+    "longitude": -0.308433,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLSOQ",
+    "name": "South Quay",
+    "latitude": 51.50005,
+    "longitude": -0.01597,
+    "mode": "Dlr"
+  },
+  {
+    "code": "HUBSRU",
+    "name": "South Ruislip",
+    "latitude": 51.556853,
+    "longitude": -0.398915,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GSTOTNHM",
+    "name": "South Tottenham",
+    "latitude": 51.580372,
+    "longitude": -0.072103,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUSWN",
+    "name": "South Wimbledon",
+    "latitude": 51.415309,
+    "longitude": -0.192005,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUSWF",
+    "name": "South Woodford",
+    "latitude": 51.591907,
+    "longitude": 0.027338,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GSTHALL",
+    "name": "Southall",
+    "latitude": 51.505957,
+    "longitude": -0.37861,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "910GSBURY",
+    "name": "Southbury",
+    "latitude": 51.648705,
+    "longitude": -0.052437,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUSFS",
+    "name": "Southfields",
+    "latitude": 51.445073,
+    "longitude": -0.206602,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUSGT",
+    "name": "Southgate",
+    "latitude": 51.632315,
+    "longitude": -0.127816,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUSWK",
+    "name": "Southwark",
+    "latitude": 51.50427,
+    "longitude": -0.105331,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GSTJMSST",
+    "name": "St James Street (London)",
+    "latitude": 51.580981,
+    "longitude": -0.032918,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUSJP",
+    "name": "St. James's Park",
+    "latitude": 51.499544,
+    "longitude": -0.133608,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUSJW",
+    "name": "St. John's Wood",
+    "latitude": 51.534521,
+    "longitude": -0.173948,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUSPU",
+    "name": "St. Paul's",
+    "latitude": 51.514936,
+    "longitude": -0.097567,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUSFB",
+    "name": "Stamford Brook",
+    "latitude": 51.494917,
+    "longitude": -0.245704,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GSTMFDHL",
+    "name": "Stamford Hill",
+    "latitude": 51.574467,
+    "longitude": -0.076682,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUSTM",
+    "name": "Stanmore",
+    "latitude": 51.619839,
+    "longitude": -0.303266,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLSTL",
+    "name": "Star Lane",
+    "latitude": 51.520786,
+    "longitude": 0.004156,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUSGN",
+    "name": "Stepney Green",
+    "latitude": 51.521858,
+    "longitude": -0.046596,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUSKW",
+    "name": "Stockwell",
+    "latitude": 51.472184,
+    "longitude": -0.122644,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GSTKNWNG",
+    "name": "Stoke Newington",
+    "latitude": 51.565233,
+    "longitude": -0.072887,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBSBP",
+    "name": "Stonebridge Park",
+    "latitude": 51.544111,
+    "longitude": -0.275828,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBSBP",
+    "name": "Stonebridge Park",
+    "latitude": 51.543959,
+    "longitude": -0.275892,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBSRA",
+    "name": "Stratford",
+    "latitude": 51.541758,
+    "longitude": -0.003287,
+    "mode": "Dlr"
+  },
+  {
+    "code": "HUBSRA",
+    "name": "Stratford",
+    "latitude": 51.541806,
+    "longitude": -0.003458,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBSRA",
+    "name": "Stratford (London)",
+    "latitude": 51.541895,
+    "longitude": -0.003397,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBSRA",
+    "name": "Stratford (London)",
+    "latitude": 51.541895,
+    "longitude": -0.003397,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZDLSHS",
+    "name": "Stratford High Street",
+    "latitude": 51.538196,
+    "longitude": -0.001078,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZDLSIT",
+    "name": "Stratford International",
+    "latitude": 51.545265,
+    "longitude": -0.009638,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUSUH",
+    "name": "Sudbury Hill",
+    "latitude": 51.556946,
+    "longitude": -0.336435,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUSUT",
+    "name": "Sudbury Town",
+    "latitude": 51.550815,
+    "longitude": -0.315745,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GSURREYQ",
+    "name": "Surrey Quays",
+    "latitude": 51.493196,
+    "longitude": -0.047519,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUSWC",
+    "name": "Swiss Cottage",
+    "latitude": 51.543681,
+    "longitude": -0.174894,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBSYD",
+    "name": "Sydenham",
+    "latitude": 51.427248,
+    "longitude": -0.054244,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GTAPLOW",
+    "name": "Taplow",
+    "latitude": 51.523562,
+    "longitude": -0.68137,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "940GZZLUTMP",
+    "name": "Temple",
+    "latitude": 51.511006,
+    "longitude": -0.11426,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GTHBLDSG",
+    "name": "Theobalds Grove",
+    "latitude": 51.692457,
+    "longitude": -0.034831,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUTHB",
+    "name": "Theydon Bois",
+    "latitude": 51.671759,
+    "longitude": 0.103085,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUTBC",
+    "name": "Tooting Bec",
+    "latitude": 51.435678,
+    "longitude": -0.159736,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUTBY",
+    "name": "Tooting Broadway",
+    "latitude": 51.42763,
+    "longitude": -0.168374,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBTCR",
+    "name": "Tottenham Court Road",
+    "latitude": 51.515698,
+    "longitude": -0.13044,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBTCR",
+    "name": "Tottenham Court Road",
+    "latitude": 51.516426,
+    "longitude": -0.13041,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBTOM",
+    "name": "Tottenham Hale",
+    "latitude": 51.588108,
+    "longitude": -0.060241,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUTAW",
+    "name": "Totteridge & Whetstone",
+    "latitude": 51.630597,
+    "longitude": -0.17921,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBTOG",
+    "name": "Tower Gateway",
+    "latitude": 51.510617,
+    "longitude": -0.074818,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUTWH",
+    "name": "Tower Hill",
+    "latitude": 51.509971,
+    "longitude": -0.076546,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUTFP",
+    "name": "Tufnell Park",
+    "latitude": 51.556822,
+    "longitude": -0.138433,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GTURKYST",
+    "name": "Turkey Street",
+    "latitude": 51.672628,
+    "longitude": -0.047217,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUTNG",
+    "name": "Turnham Green",
+    "latitude": 51.495148,
+    "longitude": -0.254555,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUTPN",
+    "name": "Turnpike Lane",
+    "latitude": 51.590272,
+    "longitude": -0.102953,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GTWYFORD",
+    "name": "Twyford",
+    "latitude": 51.475534,
+    "longitude": -0.863293,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBUPM",
+    "name": "Upminster",
+    "latitude": 51.559018,
+    "longitude": 0.25088,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBUPM",
+    "name": "Upminster",
+    "latitude": 51.559063,
+    "longitude": 0.250882,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUUPB",
+    "name": "Upminster Bridge",
+    "latitude": 51.55856,
+    "longitude": 0.235809,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUUPY",
+    "name": "Upney",
+    "latitude": 51.538372,
+    "longitude": 0.10153,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GUPRHLWY",
+    "name": "Upper Holloway",
+    "latitude": 51.563631,
+    "longitude": -0.129513,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUUPK",
+    "name": "Upton Park",
+    "latitude": 51.53534,
+    "longitude": 0.035263,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUUXB",
+    "name": "Uxbridge",
+    "latitude": 51.546565,
+    "longitude": -0.477949,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBVXH",
+    "name": "Vauxhall",
+    "latitude": 51.485743,
+    "longitude": -0.124204,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBVIC",
+    "name": "Victoria",
+    "latitude": 51.496359,
+    "longitude": -0.143102,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBWHC",
+    "name": "Walthamstow Central",
+    "latitude": 51.582919,
+    "longitude": -0.019815,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBWHC",
+    "name": "Walthamstow Central",
+    "latitude": 51.582965,
+    "longitude": -0.019885,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GWLTHQRD",
+    "name": "Walthamstow Queens Road",
+    "latitude": 51.581503,
+    "longitude": -0.023846,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GWNDSWRD",
+    "name": "Wandsworth Road",
+    "latitude": 51.470216,
+    "longitude": -0.13852,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUWSD",
+    "name": "Wanstead",
+    "latitude": 51.575501,
+    "longitude": 0.028527,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GWNSTDPK",
+    "name": "Wanstead Park",
+    "latitude": 51.551693,
+    "longitude": 0.026213,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GWAPPING",
+    "name": "Wapping",
+    "latitude": 51.504388,
+    "longitude": -0.055931,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUWRR",
+    "name": "Warren Street",
+    "latitude": 51.524951,
+    "longitude": -0.138321,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUWKA",
+    "name": "Warwick Avenue",
+    "latitude": 51.523263,
+    "longitude": -0.183783,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBWAT",
+    "name": "Waterloo",
+    "latitude": 51.503299,
+    "longitude": -0.11478,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUWAF",
+    "name": "Watford",
+    "latitude": 51.657446,
+    "longitude": -0.417377,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GWATFDHS",
+    "name": "Watford High Street",
+    "latitude": 51.652655,
+    "longitude": -0.391711,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBWFJ",
+    "name": "Watford Junction",
+    "latitude": 51.663908,
+    "longitude": -0.395925,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBWMB",
+    "name": "Wembley Central",
+    "latitude": 51.552325,
+    "longitude": -0.296433,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBWMB",
+    "name": "Wembley Central",
+    "latitude": 51.552304,
+    "longitude": -0.296852,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUWYP",
+    "name": "Wembley Park",
+    "latitude": 51.563198,
+    "longitude": -0.279262,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUWTA",
+    "name": "West Acton",
+    "latitude": 51.518001,
+    "longitude": -0.28098,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBWBP",
+    "name": "West Brompton",
+    "latitude": 51.487061,
+    "longitude": -0.195593,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBWBP",
+    "name": "West Brompton",
+    "latitude": 51.487268,
+    "longitude": -0.195599,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBWCY",
+    "name": "West Croydon",
+    "latitude": 51.378428,
+    "longitude": -0.102585,
+    "mode": "Overground"
+  },
+  {
+    "code": "910GWDRYTON",
+    "name": "West Drayton",
+    "latitude": 51.510055,
+    "longitude": -0.472234,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "910GWEALING",
+    "name": "West Ealing",
+    "latitude": 51.513506,
+    "longitude": -0.320133,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "940GZZLUWFN",
+    "name": "West Finchley",
+    "latitude": 51.609426,
+    "longitude": -0.188362,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBWEH",
+    "name": "West Ham",
+    "latitude": 51.527894,
+    "longitude": 0.004482,
+    "mode": "Dlr"
+  },
+  {
+    "code": "HUBWEH",
+    "name": "West Ham",
+    "latitude": 51.528136,
+    "longitude": 0.005055,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBWHD",
+    "name": "West Hampstead",
+    "latitude": 51.547468,
+    "longitude": -0.191185,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBWHD",
+    "name": "West Hampstead",
+    "latitude": 51.546638,
+    "longitude": -0.191059,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUWHW",
+    "name": "West Harrow",
+    "latitude": 51.57971,
+    "longitude": -0.3534,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLWIQ",
+    "name": "West India Quay",
+    "latitude": 51.50703,
+    "longitude": -0.020311,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUWKN",
+    "name": "West Kensington",
+    "latitude": 51.490459,
+    "longitude": -0.206636,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBWRU",
+    "name": "West Ruislip",
+    "latitude": 51.569688,
+    "longitude": -0.437886,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLWSV",
+    "name": "West Silvertown",
+    "latitude": 51.502838,
+    "longitude": 0.02246,
+    "mode": "Dlr"
+  },
+  {
+    "code": "940GZZLUWSP",
+    "name": "Westbourne Park",
+    "latitude": 51.52111,
+    "longitude": -0.201065,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZDLWFE",
+    "name": "Westferry",
+    "latitude": 51.509431,
+    "longitude": -0.02675,
+    "mode": "Dlr"
+  },
+  {
+    "code": "HUBWSM",
+    "name": "Westminster",
+    "latitude": 51.50132,
+    "longitude": -0.124861,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUWCY",
+    "name": "White City",
+    "latitude": 51.511959,
+    "longitude": -0.224297,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GWHHRTLA",
+    "name": "White Hart Lane",
+    "latitude": 51.605037,
+    "longitude": -0.070914,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBZWL",
+    "name": "Whitechapel",
+    "latitude": 51.519632,
+    "longitude": -0.059837,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBZWL",
+    "name": "Whitechapel",
+    "latitude": 51.519469,
+    "longitude": -0.059757,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBZWL",
+    "name": "Whitechapel",
+    "latitude": 51.519518,
+    "longitude": -0.059971,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUWIG",
+    "name": "Willesden Green",
+    "latitude": 51.549146,
+    "longitude": -0.221537,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBWIJ",
+    "name": "Willesden Junction",
+    "latitude": 51.532497,
+    "longitude": -0.244548,
+    "mode": "Overground"
+  },
+  {
+    "code": "HUBWIJ",
+    "name": "Willesden Junction",
+    "latitude": 51.532259,
+    "longitude": -0.244283,
+    "mode": "Underground"
+  },
+  {
+    "code": "HUBWIM",
+    "name": "Wimbledon",
+    "latitude": 51.421207,
+    "longitude": -0.206573,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUWIP",
+    "name": "Wimbledon Park",
+    "latitude": 51.434573,
+    "longitude": -0.199719,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUWOG",
+    "name": "Wood Green",
+    "latitude": 51.597479,
+    "longitude": -0.109886,
+    "mode": "Underground"
+  },
+  {
+    "code": "940GZZLUWLA",
+    "name": "Wood Lane",
+    "latitude": 51.509669,
+    "longitude": -0.22453,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GWDST",
+    "name": "Wood Street",
+    "latitude": 51.58658,
+    "longitude": -0.002405,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUWOF",
+    "name": "Woodford",
+    "latitude": 51.606899,
+    "longitude": 0.03397,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GWDGRNPK",
+    "name": "Woodgrange Park",
+    "latitude": 51.549264,
+    "longitude": 0.044423,
+    "mode": "Overground"
+  },
+  {
+    "code": "940GZZLUWOP",
+    "name": "Woodside Park",
+    "latitude": 51.618014,
+    "longitude": -0.18542,
+    "mode": "Underground"
+  },
+  {
+    "code": "910GWOLWXR",
+    "name": "Woolwich",
+    "latitude": 51.492017,
+    "longitude": 0.0705,
+    "mode": "ElizabethLine"
+  },
+  {
+    "code": "HUBWWA",
+    "name": "Woolwich Arsenal",
+    "latitude": 51.490009,
+    "longitude": 0.069127,
+    "mode": "Dlr"
+  }
+]

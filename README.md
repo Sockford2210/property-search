@@ -71,6 +71,25 @@ Coordinates are stored as plain `latitude`/`longitude` columns; a PostGIS
 `geometry(Point,4326)` column (`location`) is **generated** from them in the
 database, with a GiST index, ready for spatial queries in later phases.
 
+## Station import
+
+`src/StationImporter` loads London stations (~420) into the `stations` table from
+a committed dataset (`shared/Infrastructure/Data/london-stations.json`, embedded
+in `PropertySearch.Infrastructure`). The import is **idempotent** — it upserts by
+`station_code`, so re-running changes nothing. Apply migrations first.
+
+```bash
+# Schema must be up to date (see above), then run the importer. Same
+# PROPERTYSEARCH_DB env var; defaults to the local Compose database.
+PROPERTYSEARCH_DB="Host=localhost;Port=5433;Database=propertysearch;Username=propertysearch;Password=$POSTGRES_PASSWORD" \
+  dotnet run --project src/StationImporter
+# -> Station import complete: 420 inserted, 0 updated, 0 unchanged, 420 total.
+```
+
+The dataset is generated from the [TfL Unified API](https://api.tfl.gov.uk/) by
+`scripts/build-station-dataset.py` (Python 3, no app key). See
+`shared/Infrastructure/Data/README.md` for provenance and how to refresh it.
+
 ## Tests
 
 Integration tests live in `tests/PropertySearch.Infrastructure.Tests`. They use
@@ -90,9 +109,11 @@ Directory.Build.props      Shared MSBuild settings (net10.0, nullable, etc.)
 Directory.Packages.props   Central Package Management
 docker-compose.yml         Local infrastructure (PostgreSQL + PostGIS)
 db/init/                   First-run database init scripts
+src/StationImporter/       Console app: imports London stations (Phase 2)
 shared/Domain/             Business entities (Property, Listing, Source, Station)
-shared/Infrastructure/     EF Core DbContext, configurations, migrations
+shared/Infrastructure/     EF Core DbContext, configurations, migrations, station import
 shared/Contracts/          DTOs / message contracts (empty until needed)
 tests/                     Integration tests (Testcontainers + PostGIS)
+scripts/                   Data-prep tooling (station dataset generator)
 docs/                      Plans and specs
 ```

@@ -19,4 +19,17 @@ public static class PropertyDbContextOptionsExtensions
             .UseSnakeCaseNamingConvention();
         return builder;
     }
+
+    /// <summary>
+    /// Non-generic overload for the <c>AddDbContext</c> options callback, which
+    /// supplies a non-generic <see cref="DbContextOptionsBuilder"/>.
+    /// </summary>
+    public static DbContextOptionsBuilder UsePropertySearchNpgsql(
+        this DbContextOptionsBuilder builder, string connectionString)
+    {
+        builder
+            .UseNpgsql(connectionString)
+            .UseSnakeCaseNamingConvention();
+        return builder;
+    }
 }
