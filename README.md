@@ -101,6 +101,16 @@ The HTML is parsed by `RightmoveSearchParser`, which locates the embedded
 with Polly resilience and a configurable politeness delay; tests inject a fake
 `IPageFetcher` and run offline. Register with `services.AddRightmoveScraper(config)`.
 
+## Listing detail parsing
+
+`RightmoveListingParser` (in `shared/Infrastructure/Sources/Rightmove/`) is the Phase 5
+entry point. Given a detail-page HTML string it returns a `ParsedListing` record
+`{ ExternalId, Url, DisplayAddress, RentPcm, Bedrooms, Bathrooms?, Latitude?,
+Longitude?, Description? }`. The parser locates the embedded `window.PAGE_MODEL` JSON
+blob using AngleSharp and deserialises it with `System.Text.Json`. Weekly rents are
+converted to monthly (`amount × 52 / 12`, rounded). POA or missing required fields
+raise `ListingParseException`. The parser is a pure function — no database, no HTTP.
+
 ## Tests
 
 Integration tests live in `tests/PropertySearch.Infrastructure.Tests`. They use
